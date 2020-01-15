@@ -7,7 +7,7 @@
 </head>
 <body>
     <div id="wrapper">
-        <h1>Happy New Year!</h1>
+        <h1>Happy New Year 2020</h1>
         <p>The time on the server is ${serverTime}.</p>
     </div>
 </body>
